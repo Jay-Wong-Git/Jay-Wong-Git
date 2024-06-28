@@ -13,7 +13,7 @@ Languages and Tools:
 
   ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=plastic&logo=nestjs)![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=mongodb)![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=plastic&logo=graphql)![Nginx](https://img.shields.io/badge/-Nginx-000000?style=plastic&logo=nginx)![Git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git)![Docker](https://img.shields.io/badge/-Docker-000000?style=plastic&logo=docker)![MySQL](https://img.shields.io/badge/-MySQL-000000?style=plastic&logo=mysql)
 
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=plastic&logo=spring-boot)![Spring](https://img.shields.io/badge/-Spring-000000?style=plastic&logo=spring)![Maven](https://img.shields.io/badge/-Maven-000000?style=plastic&logo=apache-maven)![Java](https://badgen.net/badge/icon/Java?icon=java&label&color=000000)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=plastic&logo=postgresql)![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=plastic&logo=spring-boot)![Spring](https://img.shields.io/badge/-Spring-000000?style=plastic&logo=spring)![Maven](https://img.shields.io/badge/-Maven-000000?style=plastic&logo=apache-maven)![Java](https://badgen.net/badge/icon/Java?icon=java&label&color=000000)
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Wong-Git&hide=less,scss,stylus,css,html,ejs&show_icons=true&theme=dark&langs_count=4)
